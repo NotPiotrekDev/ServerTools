@@ -1,0 +1,6 @@
+name: ServerTools
+version: '1.0.0'
+main: pl.notpiotrekdev.serverTools.ServerTools
+api-version: '1.21'
+authors: [ NotPiotrekDev ]
+description: The only plugin that you will ever need on your server!
